@@ -1,8 +1,8 @@
 # Reactive-Game-Server-Platform
 
-Requirements
+## Requirements
 
-A Big Data ready game server
-Game server as a Reactive system.
-Application level load balancing.
-Extremely developer friendly.
+- A Big Data ready game server
+- Game server as a Reactive system.
+- Application level load balancing.
+- Extremely developer friendly.
