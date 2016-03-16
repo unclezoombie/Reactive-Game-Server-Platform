@@ -18,4 +18,4 @@ Where does an idea to build a Reactive Game Server Platform come from? It comes 
   * No enigmatic concept ( Resilient, Elastic, Asynchronize, Non-blocking etc.)
 
 
-### Let's running to the future, hAkkers gamers!
+### Let's running to the future, hAkker gamers!
