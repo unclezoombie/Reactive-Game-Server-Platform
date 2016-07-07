@@ -5,6 +5,7 @@ Where does an idea to build a Reactive Game Server Platform come from? It comes 
 ### Requirements
 
 - A Big Data ready game server
+  * Covered full Big Data pipeline which include data acquision, transformation, analysis, decision/visualization. 
 - Game server as a Reactive system.
   * Support higher massive amount of Online Player
   * Good response time
