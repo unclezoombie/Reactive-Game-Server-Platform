@@ -16,6 +16,7 @@ Where does an idea to build a Reactive Game Server Platform come from? It comes 
   * No dummy network level load balancing
 - Extremely developer friendly.
   * No enigmatic concept ( Resilient, Elastic, Asynchronize, Non-blocking etc.)
+  * Fill in the blank: a skeleton/frame/structure onto which game developer put "flesh".
 
 
 ### Let's running to the future, hAkker gamers!
