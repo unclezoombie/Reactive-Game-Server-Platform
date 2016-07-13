@@ -6,13 +6,17 @@ Where does an idea to build a Reactive Game Server Platform come from? It comes 
 
 - A Big Data ready game server
   * Covered full Big Data pipeline which include data acquision, transformation, analysis, decision/visualization. 
-- Game server as a Reactive system.
-  * Support higher massive amount of Online Player
+- Game server built in Reactive way.
+  * Support high massive amount of Online Player
   * Good response time
-  * Higher Availability
-  * Higher Scalability requirement
+  * High Availability
+  * High Scalability
   * Automatic Failover and Self-Healing
   * Naturely Cload ready
+- A Lambda game server
+  * Scalable Functions
+  * Simple API
+  * Simple Function Life-cycle
 - Application level load balancing.
   * No dummy network level load balancing
 - Extremely developer friendly.
