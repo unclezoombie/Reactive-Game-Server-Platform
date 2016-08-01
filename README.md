@@ -29,7 +29,6 @@ To satisfy above requirements, here I set the goals for Reactive Game Server Pla
   * High Scalability
   * Automatic Failover and Self-Healing
   * Naturely Cload ready
-  * Non-blocking and asynchronous 
   * Built on Reactive Stream
 - A Lambda style game server
   * Scalable Functions
