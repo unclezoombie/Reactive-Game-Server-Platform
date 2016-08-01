@@ -19,7 +19,7 @@ To satisfy above requirements, here I set the goals for Reactive Game Server Pla
 ### Golas
 
 - A Big Data ready game server
-  * Covered full Big Data pipeline which include data acquision, transformation, analysis, decision/visualization. 
+  * Covered full Big Data pipeline which include data acquision, transformation, analysis, visualization/decision. 
   * Lambda architecture: Fast Data + Batched Data
   * Injection sensor on Client side and Server side.
 - Game server built in Reactive way.
@@ -35,7 +35,7 @@ To satisfy above requirements, here I set the goals for Reactive Game Server Pla
   * Scalable Functions
   * Simple API
   * Simple Function Life-cycle
-  * built on IOC
+  * Built on IOC
 - Microservices with Lambda Functions
 - Application level load balancing.
   * No dummy network level load balancing
