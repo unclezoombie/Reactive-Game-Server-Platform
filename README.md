@@ -1,8 +1,15 @@
 # Reactive-Game-Server-Platform
 
+###Motivations
+Why do I want to make a Reactive style game server development framework with fully build-in Big Data capabilities?
+- Popularize the power of Reactive style game server.
+- Popularize the power of Big Data and Analytics.
+- Help Indie and small studio build their development power, and compete with the giants in game industry, because indie and small studio are exploring the new frontier of inovation. They are the future of game industry.
+- It's my hobby.
+
 ### Requirements
 Where does an idea to build a Reactive Game Server Platform come from? It comes from a bunch of realworld requirements.
-- To build a scalabe, robust, resilient game server with quick response in any cases of load is hard. Even to big companies/studios. Small team/studio can't invest more into this. But they really need a game server for their game with the capabilities mentioned above, because in current stage, a game with weak server side support means weak competitive force. Social has been one of the most important system in a game. I can't imagine a game can be success without Social. The thing is the Social system in a game need strong push from game server. To support millions of players needs a strong game server as well.
+- To build a scalabe, robust, resilient game server with quick response in any cases of load is hard. Even to big companies/studios, they need a large team and long time development, improvement and optimization to build a capable game server. Small team/studio can't invest more into this. But they really need a game server for their game with the capabilities mentioned above, because in current stage, a game with weak server side support means weak competitive force. Social has been one of the most important system in a game. I can't imagine a game can be success without Social. The thing is the Social system in a game need strong push from game server. To support millions of players needs a strong game server as well.
 - Indie gameers don't have adequate development power on game server. This heavy limited their game features and services.
   Normally indie games don't have a server or have a simple server. They normally go to single player game or be placed in the middle area between single player game and multiplayer game.
 - Small team with very few server developer. That means less development force on game server. so the server should be simple and easy to build.
