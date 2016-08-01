@@ -5,7 +5,7 @@ Why do I want to make a Reactive style game server development framework with fu
 - Popularize the power of Reactive style game server.
 - Popularize the power of Big Data and Analytics.
 - Help Indie and small studio build their development power, and compete with the giants in game industry. Because when the big studioes are busy on making money, indie and small studio are exploring the new frontier of the inovation of game. They are the future of game industry.
-- It's my hobby.
+- It's my hobby to build sonthing in system world.
 
 ### Requirements
 Where does an idea to build a Reactive Game Server Platform come from? It comes from a bunch of realworld requirements.
