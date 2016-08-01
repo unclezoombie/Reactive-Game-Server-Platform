@@ -6,7 +6,8 @@ Where does an idea to build a Reactive Game Server Platform come from? It comes 
 
 - A Big Data ready game server
   * Covered full Big Data pipeline which include data acquision, transformation, analysis, decision/visualization. 
-  * Lambda architecture
+  * Lambda architecture: Fast Data + Batched Data
+  * Injection sensor on Client side and Server side.
 - Game server built in Reactive way.
   * Support high massive amount of Online Player
   * Good response time
@@ -20,6 +21,8 @@ Where does an idea to build a Reactive Game Server Platform come from? It comes 
   * Scalable Functions
   * Simple API
   * Simple Function Life-cycle
+  * built on IOC
+- Microservices with Lambda Functions
 - Application level load balancing.
   * No dummy network level load balancing
 - Extremely developer friendly.
