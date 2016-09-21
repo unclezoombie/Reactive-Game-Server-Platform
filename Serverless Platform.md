@@ -1,6 +1,14 @@
-Serverless Platform
+#Serverless Platform
 
-- Design
+### Design Goal
+
+- Xtream Developer Friendly
+  * Simple API
+  * Complete Infrastructures
+  * Simple Understanding of Functionality
+  * Easy Life Cycle Management
+  * 
+
 
 
 
